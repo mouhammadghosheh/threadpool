@@ -1,6 +1,6 @@
 # threadpool
 an http server with threads
-Student's Name : Mohammad Ghosheh , ID : 322310509
+Student's Name : Mohammad Ghosheh
 HTTP server EX3
 server.c the file has the main function and all the other usefull functions
 threadpool.c the file has the threadpool definition and functionality
